@@ -11,7 +11,7 @@ PlayerSettings:
   targetResolution: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: UnityGitProject
+  productName: Forked Unity Test
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   defaultScreenWidth: 1024
@@ -67,7 +67,7 @@ PlayerSettings:
   iPhoneBundleIdentifier: com.Company.ProductName
   metroEnableIndependentInputSource: 0
   metroEnableLowLatencyPresentationAPI: 0
-  productGUID: b45f1ac16d5caba4ca53b393d536c2c3
+  productGUID: beef8cdece2077f41afa774401070829
   iPhoneBundleVersion: 1.0
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 9
@@ -145,7 +145,7 @@ PlayerSettings:
   flashStrippingLevel: 2
   spritePackerPolicy: 
   scriptingDefineSymbols: {}
-  metroPackageName: UnityGitProject
+  metroPackageName: Forked Unity Test
   metroPackageLogo: 
   metroPackageLogo140: 
   metroPackageLogo180: 
@@ -155,7 +155,7 @@ PlayerSettings:
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: UnityGitProject
+  metroApplicationDescription: Forked Unity Test
   metroTileLogo80: 
   metroTileLogo: 
   metroTileLogo140: 
